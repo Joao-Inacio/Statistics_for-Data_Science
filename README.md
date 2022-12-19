@@ -7,9 +7,9 @@ Aprenda na teoria e na prática tudo o que você precisa saber sobre estatístic
 ## Conteúdo do curso:
 
 - [x] Seção 1: Introdução  
-- [ ] Seção 2: População e Amostra
-- [ ] Seção 3: Dados absolutos e Relativos
-- [ ] Seção 4: Distribuição de Frequência
+- [x] Seção 2: População e Amostra
+- [x] Seção 3: Dados absolutos e Relativos
+- [x] Seção 4: Distribuição de Frequência
 - [ ] Seção 5: Medidas de Posição e Dispersão
 - [ ] Seção 6: Distribuições Estatísticas
 - [ ] Seção 7: Probabilidade
