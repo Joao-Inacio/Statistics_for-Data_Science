@@ -11,8 +11,8 @@ Aprenda na teoria e na prática tudo o que você precisa saber sobre estatístic
 - [x] [Seção 3: Dados absolutos e Relativos](https://github.com/Joao-Inacio/Statistics_for-Data_Science/tree/master/Dados_Absolutos_Relativos)
 - [x] [Seção 4: Distribuição de Frequência](https://github.com/Joao-Inacio/Statistics_for-Data_Science/tree/master/Distribuicao_de_Frequencia)
 - [x] [Seção 5: Medidas de Posição e Dispersão](https://github.com/Joao-Inacio/Statistics_for-Data_Science/tree/master/Medidas_de_Posicao_e_Dispersao)
-- [ ] [Seção 6: Distribuições Estatísticas](https://github.com/Joao-Inacio/Statistics_for-Data_Science/tree/master/Distribui%C3%A7%C3%B5es_Estatisticas)
-- [ ] Seção 7: Probabilidade
-- [ ] Seção 8: Intervalos de Confiança e Teste de Hipóteses
+- [x] [Seção 6: Distribuições Estatísticas](https://github.com/Joao-Inacio/Statistics_for-Data_Science/tree/master/Distribui%C3%A7%C3%B5es_Estatisticas)
+- [x] [Seção 7: Probabilidade](https://github.com/Joao-Inacio/Statistics_for-Data_Science/tree/master/Probabilidade)
+- [ ] [Seção 8: Intervalos de Confiança e Teste de Hipóteses](https://github.com/Joao-Inacio/Statistics_for-Data_Science/tree/master/Intervalos_de_Confianca_e_Teste_de_Hipoteses)
 - [ ] Seção 9: Correlação e Regressão
 - [ ] Seção 10: Visualização
