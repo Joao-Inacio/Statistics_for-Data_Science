@@ -13,6 +13,12 @@ Aprenda na teoria e na prática tudo o que você precisa saber sobre estatístic
 - [x] [Seção 5: Medidas de Posição e Dispersão](https://github.com/Joao-Inacio/Statistics_for-Data_Science/tree/master/Medidas_de_Posicao_e_Dispersao)
 - [x] [Seção 6: Distribuições Estatísticas](https://github.com/Joao-Inacio/Statistics_for-Data_Science/tree/master/Distribui%C3%A7%C3%B5es_Estatisticas)
 - [x] [Seção 7: Probabilidade](https://github.com/Joao-Inacio/Statistics_for-Data_Science/tree/master/Probabilidade)
-- [ ] [Seção 8: Intervalos de Confiança e Teste de Hipóteses](https://github.com/Joao-Inacio/Statistics_for-Data_Science/tree/master/Intervalos_de_Confianca_e_Teste_de_Hipoteses)
-- [ ] Seção 9: Correlação e Regressão
-- [ ] Seção 10: Visualização
+- [x] [Seção 8: Intervalos de Confiança e Teste de Hipóteses](https://github.com/Joao-Inacio/Statistics_for-Data_Science/tree/master/Intervalos_de_Confianca_e_Teste_de_Hipoteses)
+- [x] [Seção 9: Correlação e Regressão](https://github.com/Joao-Inacio/Statistics_for-Data_Science/tree/master/Correlacao_e_Regressao)
+- [x] [Seção 10: Visualização](https://github.com/Joao-Inacio/Statistics_for-Data_Science/tree/master/Visualizacao)
+
+---
+
+## **Certificado:**
+
+![certificado](https://udemy-certificate.s3.amazonaws.com/image/UC-4b37eba9-a732-4c5f-b2fb-3c2423e015a0.jpg)
